@@ -51,7 +51,7 @@ populous countries contribute significantly
 to Canada's immigration.
 ## Chart 3: Immigration trend of top 5 countries (1980 - 2010)
 
-![Immigration trend of top 5 countries](./assets/top_5_countries.png)
+![Immigration trend of top 5 countries](https://github.com/Thuan-Ethan/Data_Visualization_Course_CS441V/blob/main/assets/top_5_countries.png?raw=true)
 ### Why this chart
 This chart is used to illustrate immigration trends 
 from the top 5 countries (India, China, the United Kingdom of 
