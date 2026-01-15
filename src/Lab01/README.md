@@ -1,5 +1,5 @@
-Lab 01 – Introduction to Matplotlib and Line Plots
-Course: CS441V – Data Visualization
+Lab 01 â€“ Introduction to Matplotlib and Line Plots
+Course: CS441V â€“ Data Visualization
 
 Objective:
 - Learn how to visualize immigration trends using Pandas and Matplotlib.
@@ -7,7 +7,7 @@ Objective:
 
 Dataset:
 - Canada Immigration Dataset
-- Time range: 1980–2013
+- Time range: 1980â€“2013
 - Source: Canada by Citizenship (Excel file)
 
 Explain the charts:
