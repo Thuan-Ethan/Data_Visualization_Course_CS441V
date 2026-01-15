@@ -13,8 +13,7 @@ Dataset:
 Explain the charts:
 # *If you don't see the image, check the assets folder
 ## Chart 1: Immigration Trend from Haiti (1980 - 2010)
-![Immigration from Haiti](./assets/haiti.png)
-
+![Immigration from Haiti](https://github.com/Thuan-Ethan/Data_Visualization_Course_CS441V/blob/main/assets/haiti.png?raw=true)
 
 
 ### Why this chart
@@ -36,7 +35,7 @@ The visual representation shows that historically,
 natural disasters or other influences can affect migration patterns.
 
 ## Chart 2: Immigration from China and India (1980 - 2013)
-![Immigration from China and India](./assets/china_india.png)
+![Immigration from China and India](https://github.com/Thuan-Ethan/Data_Visualization_Course_CS441V/blob/main/assets/china_india.png?raw=true)
 ### Why this chart
 Using a bar chart, you can view the number of migrants 
 from China and India, and compare the number of migrants 
@@ -51,7 +50,7 @@ populous countries contribute significantly
 to Canada's immigration.
 ## Chart 3: Immigration trend of top 5 countries (1980 - 2010)
 
-![Immigration trend of top 5 countries](./assets/top_5_countries.png)
+![Immigration trend of top 5 countries](https://github.com/Thuan-Ethan/Data_Visualization_Course_CS441V/blob/main/assets/top_5_countries.png?raw=true)
 ### Why this chart
 This chart is used to illustrate immigration trends 
 from the top 5 countries (India, China, the United Kingdom of 
