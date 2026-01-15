@@ -36,7 +36,7 @@ The visual representation shows that historically,
 natural disasters or other influences can affect migration patterns.
 
 ## Chart 2: Immigration from China and India (1980 - 2013)
-![Immigration from China and India](./assets/china_india.png)
+![Immigration from China and India](https://github.com/Thuan-Ethan/Data_Visualization_Course_CS441V/blob/559e44d5a4f819704df54c8afc0c2e3e76794ae7/assets/china_india.png)
 ### Why this chart
 Using a bar chart, you can view the number of migrants 
 from China and India, and compare the number of migrants 
